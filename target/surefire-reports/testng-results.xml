@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="8" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-04T22:38:35 IST" name="Suite" finished-at="2021-04-04T22:39:16 IST" duration-ms="41403">
+    <groups>
+    </groups>
+    <test started-at="2021-04-04T22:38:35 IST" name="Test" finished-at="2021-04-04T22:39:16 IST" duration-ms="41403">
+      <class name="com.ARSHAD.phptravels.TestScript.TC001_LoginPanel">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:38:35 IST" name="setup" finished-at="2021-04-04T22:38:44 IST" duration-ms="9014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validatetitle()[pri:1, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:38:44 IST" name="validatetitle" finished-at="2021-04-04T22:38:44 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitle -->
+        <test-method signature="validate_login_exceldata(java.lang.String,java.lang.String)[pri:3, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:38:45 IST" name="validate_login_exceldata" data-provider="s1" finished-at="2021-04-04T22:38:51 IST" duration-ms="6573" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supplier@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosupplier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_exceldata -->
+        <test-method signature="validate_login_exceldata(java.lang.String,java.lang.String)[pri:3, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:38:51 IST" name="validate_login_exceldata" data-provider="s1" finished-at="2021-04-04T22:38:57 IST" duration-ms="5795" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supplier@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosupplier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_exceldata -->
+        <test-method signature="validate_login_exceldata(java.lang.String,java.lang.String)[pri:3, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:38:57 IST" name="validate_login_exceldata" data-provider="s1" finished-at="2021-04-04T22:39:01 IST" duration-ms="3882" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supplier@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosupplier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_exceldata -->
+        <test-method signature="validate_login_exceldata(java.lang.String,java.lang.String)[pri:3, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:39:01 IST" name="validate_login_exceldata" data-provider="s1" finished-at="2021-04-04T22:39:06 IST" duration-ms="5233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supplier@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosupplier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_exceldata -->
+        <test-method signature="validate_login_exceldata(java.lang.String,java.lang.String)[pri:3, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:39:06 IST" name="validate_login_exceldata" data-provider="s1" finished-at="2021-04-04T22:39:11 IST" duration-ms="5022" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supplier@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosupplier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_exceldata -->
+        <test-method signature="validate_login_exceldata(java.lang.String,java.lang.String)[pri:3, instance:com.ARSHAD.phptravels.TestScript.TC001_LoginPanel@cd3fee8]" started-at="2021-04-04T22:39:11 IST" name="validate_login_exceldata" data-provider="s1" finished-at="2021-04-04T22:39:16 IST" duration-ms="4795" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[supplier@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demosupplier]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_login_exceldata -->
+      </class> <!-- com.ARSHAD.phptravels.TestScript.TC001_LoginPanel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
